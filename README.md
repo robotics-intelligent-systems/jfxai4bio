@@ -1,4 +1,4 @@
-# JFXAI4BIO — AI-Powered Bioinformatics Simulation Platform
+# Agentic AI Bioinformatics Simulation Platform
 
 **An open, modular architecture for reproducible biological data analysis, scientific simulation, and AI-assisted research.**
 
